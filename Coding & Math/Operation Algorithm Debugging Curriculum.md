@@ -15,7 +15,7 @@ D. Solve problems involving the four operations, and identify and explain patter
 8. Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.3
 9. Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends
 
-Resources
+### Resources
 [k12cs](www.k12cs.org)  
 [NJ Education CCCS](www.state.nj.us/education/cccs/)  
 [Code.org](www.code.org)  
