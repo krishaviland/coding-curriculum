@@ -16,9 +16,9 @@ D. Solve problems involving the four operations, and identify and explain patter
 9. Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends
 
 ### Resources
-[k12cs](www.k12cs.org)  
-[NJ Education CCCS](www.state.nj.us/education/cccs/)  
-[Code.org](www.code.org)  
+[k12cs](https://www.k12cs.org)  
+[NJ Education CCCS](https://www.state.nj.us/education/cccs/)  
+[Code.org](https://www.code.org)  
 
 ## Instructional Plan
 ### Session 1- KNOW
