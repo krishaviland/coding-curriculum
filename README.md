@@ -1,2 +1,7 @@
-# coding-curriculum
-An integration of coding lessons into the core curriculum
+# Coding Curriculum
+
+
+## Coding & Literacy
+
+
+## Coding & Math
