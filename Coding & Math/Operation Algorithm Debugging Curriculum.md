@@ -16,16 +16,16 @@ D. Solve problems involving the four operations, and identify and explain patter
 9. Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends
 
 Resources
-[k12cs](www.k12cs.org)
-[NJ Education CCCS](www.state.nj.us/education/cccs/)
-[Code.org](www.code.org)
+[k12cs](www.k12cs.org)  
+[NJ Education CCCS](www.state.nj.us/education/cccs/)  
+[Code.org](www.code.org)  
 
 ## Instructional Plan
 ### Session 1- KNOW
 Objective: SWBAT analyze solutions to problems involving the four operations.
 Anticipatory Set: Show a solved problem for the given operation. Ask students how they think it was solved. Repeat as necessary. Teacher explains that there are steps to solving problems. Not all problems are the same, but we there are patterns in the way we solve them. Teacher explains that the objective is to analyze solutions to problems and list the steps necessary to reach the solution.
 Instruction: Teacher displays a solved problem and models how to read through and identify the steps to reach the solution. Create anchor chart “Steps for Solving [operation] Problems.” **SEE POWERPOINT**
-Guided/Independent Practice: Students work in pairs to study solved problems. Students create steps to add to the anchor chart. 
+Guided/Independent Practice: Students work in pairs to study solved problems. Students create steps to add to the anchor chart.
 Assessment/Closure: Compile students’ ideas and add to anchor chart  “Steps for Solving [operation] Problems.”
 
 ### Session 2-ALGORITHM
