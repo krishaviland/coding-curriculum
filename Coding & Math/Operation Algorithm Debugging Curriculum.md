@@ -17,7 +17,7 @@ D. Solve problems involving the four operations, and identify and explain patter
 
 ### Resources
 [k12cs](https://www.k12cs.org)  
-[NJ Education CCCS](https://www.state.nj.us/education/cccs/)  
+[NJ Education CCCS](http://www.state.nj.us/education/cccs/)  
 [Code.org](https://www.code.org)  
 
 ## Instructional Plan
